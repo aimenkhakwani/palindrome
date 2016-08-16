@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: #ffdacc;
+  font-family: 'Josefin Slab', serif;
+}
+#yes-palindrome, #no-palindrome {
+  display: none;
+}
+.container {
+  margin-top: 3rem;
+  border: 1px solid #ff8f66;
+}
+button {
+  background-color: #ff8f66;
+}
+button:hover {
+  background-color: #ffdacc;
+}
