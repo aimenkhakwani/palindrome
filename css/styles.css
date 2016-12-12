@@ -6,8 +6,8 @@ body {
 #yes-palindrome, #no-palindrome {
   display: none;
 }
-.container {
-  margin-top: 3rem;
+.col-md-8 {
+  margin-top: 10rem;
   border: 1px solid #ff8f66;
 }
 button {
